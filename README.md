@@ -3,4 +3,4 @@ Use your keyboard as a drum kit built with JavaScript as part of 30 Day Vanilla 
 Site for the Coding Challenge by Wes Bos: https://javascript30.com/
 
 You can play the drume here:
-https://joeywhalen.github.io/javascript-games-rollDice100/
+https://joeywhalen.github.io/javascript-games-keyboardDrumKit/
